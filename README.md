@@ -1,5 +1,7 @@
 # Retail Demand Forecasting with XGBoost
 
+Also available as an interactive notebook on Kaggle: https://www.kaggle.com/code/tahsinbillah2k6/demand-forecasting
+
 Predicting weekly units sold at the store-product level, using the Analytics Vidhya
 JanataHack Demand Forecasting dataset (13,287 competition participants). Built as a
 portfolio project to demonstrate applied machine learning workflow, not just model fitting.
